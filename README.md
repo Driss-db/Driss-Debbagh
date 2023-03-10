@@ -1,7 +1,6 @@
-## Crime-Forecast-for-England-and-Wales 
-### An Analysis of Violent Crimes, Homicide, Drugs, and Burglary
+## Investigating-Uber-Stock-Price 
+### Time Series Analysis and Risk Modeling
 
-#### • Led the data analysis and visualization of crime data
-#### • Developed machine learning forecast model to predict crime rates for the next year
-#### • Conducted research on economic variables and their impact on crime rates
-#### • Collaborated with team members to write the report and present the findings
+#### • Studied the distribution of the returns and calculated Value at Risk at different confidence levels of Uber stock prices using R.
+#### • Transformed data into log-returns for improved stationarity.
+#### • Fitted a time series model to the data and checked for model fit.
